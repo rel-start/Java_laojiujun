@@ -1,0 +1,389 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - javaOOMain",
+      "request": "launch",
+      "mainClass": "a08_javaOO.javaOOMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MyCalendarV2",
+      "request": "launch",
+      "mainClass": "a07_method.MyCalendarV2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MyCalendar2",
+      "request": "launch",
+      "mainClass": "a07_method.MyCalendar2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SendMessageDemo2",
+      "request": "launch",
+      "mainClass": "a07_method.SendMessageDemo2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ReloadMain",
+      "request": "launch",
+      "mainClass": "a07_method.ReloadMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HexToDecimalDemo",
+      "request": "launch",
+      "mainClass": "a07_method.HexToDecimalDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SendMessageDemo",
+      "request": "launch",
+      "mainClass": "a06_array.SendMessageDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WeekDayDemo",
+      "request": "launch",
+      "mainClass": "a06_array.WeekDayDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CalcAngles",
+      "request": "launch",
+      "mainClass": "a06_array.CalcAngles",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - C",
+      "request": "launch",
+      "mainClass": "a06_array.C",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HouGongXF2",
+      "request": "launch",
+      "mainClass": "a06_array.HouGongXF2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DialogDemo",
+      "request": "launch",
+      "mainClass": "a06_array.DialogDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HouGongXF",
+      "request": "launch",
+      "mainClass": "a06_array.HouGongXF",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InsertOrDelete",
+      "request": "launch",
+      "mainClass": "a06_array.InsertOrDelete",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BinarySearch",
+      "request": "launch",
+      "mainClass": "a06_array.BinarySearch",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SortDemo",
+      "request": "launch",
+      "mainClass": "a06_array.SortDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ShuffleCardsDemo",
+      "request": "launch",
+      "mainClass": "a06_array.ShuffleCardsDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - IndexOfDemo",
+      "request": "launch",
+      "mainClass": "a06_array.IndexOfDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MaxMinDemo",
+      "request": "launch",
+      "mainClass": "a06_array.MaxMinDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FibonacciDemo",
+      "request": "launch",
+      "mainClass": "a06_array.FibonacciDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ArrayMain",
+      "request": "launch",
+      "mainClass": "a06_array.ArrayMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ForDemo",
+      "request": "launch",
+      "mainClass": "a05_for.ForDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SXHHomeWork",
+      "request": "launch",
+      "mainClass": "a05_for.SXHHomeWork",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HomeWork3",
+      "request": "launch",
+      "mainClass": "a05_for.HomeWork3",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CSZHomeWork",
+      "request": "launch",
+      "mainClass": "a05_for.CSZHomeWork",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GXHomeWork",
+      "request": "launch",
+      "mainClass": "a05_for.GXHomeWork",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BreakDemo",
+      "request": "launch",
+      "mainClass": "a05_for.BreakDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MyCalendar",
+      "request": "launch",
+      "mainClass": "a05_for.MyCalendar",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ForMain",
+      "request": "launch",
+      "mainClass": "a05_for.ForMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DoWhileDemo1",
+      "request": "launch",
+      "mainClass": "a04_loop.DoWhileDemo1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MyWuxiaWorld",
+      "request": "launch",
+      "mainClass": "a04_loop.MyWuxiaWorld",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - KingOfFighter",
+      "request": "launch",
+      "mainClass": "a04_loop.KingOfFighter",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WhileTest4",
+      "request": "launch",
+      "mainClass": "a04_loop.WhileTest4",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WhileTest3",
+      "request": "launch",
+      "mainClass": "a04_loop.WhileTest3",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WhileTest2",
+      "request": "launch",
+      "mainClass": "a04_loop.WhileTest2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WhileTest1",
+      "request": "launch",
+      "mainClass": "a04_loop.WhileTest1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SwitchDemo",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.SwitchDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SimpleCalendar",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.SimpleCalendar",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Myjianghu",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.Myjianghu",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HomeWork1",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.HomeWork1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Yunsuanfu",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.Yunsuanfu",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - IfDemo",
+      "request": "launch",
+      "mainClass": "a03_tiaojian.IfDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - RMBConvert",
+      "request": "launch",
+      "mainClass": "a02_class2.RMBConvert",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Yunsuanfu",
+      "request": "launch",
+      "mainClass": "a02_class2.Yunsuanfu",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HomeWork1",
+      "request": "launch",
+      "mainClass": "a02_class2.HomeWork1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test5",
+      "request": "launch",
+      "mainClass": "a02_class2.Test5",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test4",
+      "request": "launch",
+      "mainClass": "a02_class2.Test4",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test3",
+      "request": "launch",
+      "mainClass": "a02_class2.Test3",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - printf",
+      "request": "launch",
+      "mainClass": "a02_class2.printf",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Char",
+      "request": "launch",
+      "mainClass": "a02_class2.Char",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Err",
+      "request": "launch",
+      "mainClass": "a02_class2.Err",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - VarDemo",
+      "request": "launch",
+      "mainClass": "a02_class2.VarDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test2",
+      "request": "launch",
+      "mainClass": "a02_class2.Test2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test1",
+      "request": "launch",
+      "mainClass": "a02_class2.Test1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SprintLn",
+      "request": "launch",
+      "mainClass": "a01_test1.SprintLn",
+      "projectName": "Java-laojiujun"
+    }
+  ]
+}
