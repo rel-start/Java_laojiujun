@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - GameRomTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.mora.GameRomTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HumanPlayerTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.mora.HumanPlayerTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GameHeroTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.GameHeroTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CircleTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.CircleTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - RoleTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.RoleTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - javaOOMain",
       "request": "launch",
       "mainClass": "a08_javaOO.javaOOMain",
