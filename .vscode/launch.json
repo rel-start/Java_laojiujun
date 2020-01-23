@@ -2,6 +2,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - StaticDemoTest",
+      "request": "launch",
+      "mainClass": "a09_extends.StaticDemoTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StaticDemo",
+      "request": "launch",
+      "mainClass": "a09_extends.StaticDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ChunWanTest",
+      "request": "launch",
+      "mainClass": "a09_extends.chunwan.ChunWanTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ObjectSort",
+      "request": "launch",
+      "mainClass": "a09_extends.ObjectSort",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HeroTest",
+      "request": "launch",
+      "mainClass": "a09_extends.HeroTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WarriorTest",
+      "request": "launch",
+      "mainClass": "a09_extends.WarriorTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StringBufferDemo",
+      "request": "launch",
+      "mainClass": "a08_javaOO.StringBufferDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - UseMain",
+      "request": "launch",
+      "mainClass": "a08_javaOO.user.UseMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StringDemo",
+      "request": "launch",
+      "mainClass": "a08_javaOO.StringDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StringMain",
+      "request": "launch",
+      "mainClass": "a08_javaOO.StringMain",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BoxV2",
+      "request": "launch",
+      "mainClass": "a08_javaOO.BoxV2",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ProductBiz",
+      "request": "launch",
+      "mainClass": "a08_javaOO.product.ProductBiz",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Product",
+      "request": "launch",
+      "mainClass": "a08_javaOO.product.Product",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Box",
+      "request": "launch",
+      "mainClass": "a08_javaOO.Box",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HomeWork1",
+      "request": "launch",
+      "mainClass": "a08_javaOO.HomeWork1",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BookTest",
+      "request": "launch",
+      "mainClass": "a08_javaOO.book.BookTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - GameRomTest",
       "request": "launch",
       "mainClass": "a08_javaOO.mora.GameRomTest",

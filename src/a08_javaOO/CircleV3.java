@@ -13,9 +13,9 @@ public class CircleV3 {
   /** 圆的半径 */
   private double radius;
   /** 圆的周长 */
-  private double perimeter;
-  /** 圆的面积 */
-  private double area;
+  // private double perimeter;
+  // /** 圆的面积 */
+  // private double area;
 
   public CircleV3() {
   }

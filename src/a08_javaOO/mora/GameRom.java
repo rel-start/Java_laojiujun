@@ -55,7 +55,7 @@ public class GameRom {
     // 双方出拳
     showMenu();
     gaming();
-    // 打印分数
+    // 打印信息
     printInfo();
     endGame();
 
