@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - PrinterTest",
+      "request": "launch",
+      "mainClass": "a10_abstractAndInterfaceAndCalendar.printdemo.PrinterTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Hero2Test",
+      "request": "launch",
+      "mainClass": "a10_abstractAndInterfaceAndCalendar.hero2.Hero2Test",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HeroTest",
+      "request": "launch",
+      "mainClass": "a10_abstractAndInterfaceAndCalendar.hero.HeroTest",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CalendarDemo",
+      "request": "launch",
+      "mainClass": "a10_abstractAndInterfaceAndCalendar.CalendarDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CalendarDemo",
+      "request": "launch",
+      "mainClass": "a10_abstractAndInterface.CalendarDemo",
+      "projectName": "Java-laojiujun"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - StaticDemoTest",
       "request": "launch",
       "mainClass": "a09_extends.StaticDemoTest",
